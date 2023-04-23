@@ -1,0 +1,30 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: s;
+}
+.header{
+        background-color: brown;
+        padding: 100px;
+        text-align: center;
+}
+.menu{
+    padding: 20px 8%;
+}
+.menu ul{
+   display: flex;
+}
+.menu li a{
+    color: green;
+    padding: 0px 20px;
+   letter-spacing: 2px;
+   padding-left: 120px;
+}
+.muni{
+    background-color: orange;
+}
+body{
+    background-color: orange;
+}
